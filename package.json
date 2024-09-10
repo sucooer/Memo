@@ -1,0 +1,15 @@
+{
+  "name": "memoe",
+  "version": "1.0.0",
+  "description": "Some CSS, JS, and asset libraries I use for personal projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "js"
+  ],
+  "author": "memo",
+  "license": "ISC"
+}
