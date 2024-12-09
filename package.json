@@ -1,6 +1,6 @@
 {
   "name": "memoe",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Some CSS, JS, and asset libraries I use for personal projects.",
   "main": "index.js",
   "scripts": {
